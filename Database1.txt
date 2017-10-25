@@ -1,0 +1,20 @@
+BodyWash Tissues PaperTowels
+Tissues AirConditioners PlayStation Shampoo BodyLotion HeadPhones
+Shampoo BodyLotion HeadPhones
+HeadPhones Tissues AirConditioners PaperTowels 
+Televisions Tissues HeadPhones BodyLotion PlayStation Shampoo
+BodyLotion  PlayStation
+Laptops BodyLotion Televisions Tissues HeadPhones PlayStation BodyWash
+PaperTowels AirConditioners Televisions
+BodyLotion Televisions Laptops AirConditioners Shampoo
+BodyLotion Shampoo Tissues Laptops
+BodyWash BodyLotion PlayStation HeadPhones Tissues 
+BodyLotion
+PlayStation AirConditioners Televisions
+PlayStation BodyLotion Laptops HeadPhones
+BodyWash Tissues Laptops HeadPhones Shampoo
+BodyLotion PaperTowels
+Shampoo Tissues PaperTowels 
+HeadPhones BodyLotion
+PaperTowels Laptops HeadPhones AirConditioners Tissues
+Televisions PaperTowels BodyWash AirConditioners
